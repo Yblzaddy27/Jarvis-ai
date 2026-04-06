@@ -1,0 +1,16 @@
+name: jarvis_ai
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  speech_to_text: ^4.0.0
+  flutter_tts: ^3.2.2
+  provider: ^5.0.0
+
+flutter:
+  uses-material-design: true
